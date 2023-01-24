@@ -17,7 +17,7 @@ body{
     background-color: rgb(52, 5, 99);
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5) ;
 
-    width: 400px;
+    min-width:400px;
 }
 
 .pw-header{
@@ -75,6 +75,7 @@ body{
     padding: 0.5rem;
     width: 100%;
     font-weight: bold;
+    cursor: pointer;
     margin-top: 1rem;
 
 }
